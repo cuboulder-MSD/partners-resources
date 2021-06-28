@@ -1,4 +1,4 @@
-# Partners, Resources, and Published Works
+# Partners, Published Works, and Resources
 Links to partner repositories, resources, and works published by members.
 
 ## Partners
